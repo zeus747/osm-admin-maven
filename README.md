@@ -1,0 +1,1 @@
+# osm-admin-maven
